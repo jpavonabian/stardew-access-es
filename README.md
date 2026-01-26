@@ -31,7 +31,5 @@ Puedes encontrar la guía de sintaxis de Fluent [aquí](https://projectfluent.or
 También hay un [editor en línea](https://projectfluent.org/play/) donde puedes probar cosas de forma segura.
 Es posible que también necesites consultar las funciones personalizadas añadidas por [Project Fluent](https://hackmd.io/@Shockah/H1q8H-mcc/https%3A%2F%2Fhackmd.io%2F%40Shockah%2FHy8nTM7c5) y [Stardew Access](https://github.com/khanshoaib3/stardew-access/blob/c966d188ea506a70782edb5177ef6e87c685f890/stardew-access/Translation/CustomFluentFunctions.cs#L29-L91)
 
-<TODO Add the doc link for custom functions in stardew access.>
-
 Como este es un paquete de contenido, se carga como cualquier otro mod. Así que una vez que hayas terminado de traducir o quieras probar tus traducciones, copia o mueve `[Fluent][EN] Stardew Access` a la carpeta `Mods`.
 Se recomienda que también alojes este paquete de contenido en Nexus (si es posible, de lo contrario, github u otra plataforma estarán bien) para que podamos mencionar tu mod de traducción en las páginas de Stardew Access.
