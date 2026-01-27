@@ -159,251 +159,252 @@ menu-character_creation-description-skin = {$less_info ->
   }
 
 menu-character_creation-description-hair = {$less_info ->
-    [0] {$index ->
-      [1] Right-side part, short and unkempt
-      [2] Middle-part, six inches length
-      [3] Left-side part, swept bangs, combed back
-      [4] Afro
-      [5] Right-side part, unkempt with bangs
-      [6] Shaved back and sides
-      [7] Right-part open pompadour, chin length
-      [8] Right-part, short and combed back
-      [9] Right-part with bangs, large wayward spikes
-      [10] Right-part, side bob
-      [11] Pompadour, short and combed back
-      [12] Short with faded sides, combed back
-      [13] Middle-part, low ponytail
-      [14] Wayward dreads, six inches length, undershave
-      [15] Left-part with long bang, combed back
-      [16] Middle-part, 4 inches length, undercut
-      [17] Right-part, high ponytail, swept bangs
-      [18] Right-side part, shoulder length, low pigtails
-      [19] Right-side part, short with long swept bangs
-      [20] Updo, three tight buns on top of head
-      [21] Short and combed
-      [22] Right-side part, short, high pigtails
-      [23] Right-side part with bangs, tight high bun
-      [24] Right-side part with bangs, unkempt, six inches
-      [25] Right-side part, swept bangs, mid-back length
-      [26] Fifties style, teased, curly ended bob
-      [27] Middle-part, thigh-length
-      [28] Right-side part, swept bangs, chin length
-      [29] Middle-part, waist length, low ponytail
-      [30] Waist length with bangs, straight, tapered ends
-      [31] Right-side part with bangs, low pigtails
-      [32] Dual twisted side-buns, Princess Leia style
-      [33] Right-side part, swept bangs, short
-      [34] Right-side part, hip-length, pigtail braids
-      [35] Right-side part, mid-back length, pigtail braids
-      [36] High ponytail, mini bangs
-      [37] Middle-part, swept over right shoulder
-      [38] Right side part with bangs, high pigtails
-      [39] Black hairband, chin length
-      [40] Black hairband with bangs, shoulder length
-      [41] Left-side part, loose curls, shoulder length
-      [42] Shoulder length with mini bangs, curly
-      [43] Long on top with highlights, combed back
-      [44] Right-side part, swept bangs, short
-      [45] Middle-part, fade with 4 inches on top
-      [46] Cornrows, chin length
-      [47] Left-side part, short and combed
-      [48] Middle-part, swept bangs, chin length
-      [49] Middle-part, unkempt, partial ponytail
-      [50] Liberty spike style, shaved sides
-      [51] Donut cut, shoulder length
-      [52] Donut cut, short
-      [53] Bald or shaved
-      [54] Shaved, half-inch length, widow's peak
-      [55] Shaved, half-inch length, unkempt
-      [56] Shaved, half-inch length, straight hairline
-      [101] Left-side part with bangs, wavy, waist length
-      [102] Right-side part, hip-length, curly
-      [103] Right-side part, waist length, straight
-      [104] Middle-part, waist length, low ponytail
-      [105] Middle-part, waist length, high braid
-      [106] Right-side part with bangs, swept to shoulder
-      [107] Right-side part, unkempt, swept to shoulder
-      [108] Bob with bangs
-      [109] Left-side part, short, combed
-      [110] Wavy with bangs, 8 inches
-      [111] Wavy with bangs, shoulder length
-      [112] Dreads, neat, 4 inches length
-      [113] Short and unkempt
-      [114] Middle-part, six inches length
-      [115] Right-side part, shoulder length, unkempt
-      [116] Middle-part, teased, shoulder length
-      [117] Middle-part with bangs, short
-      [118] Left-side part with bangs, unkempt, short
-      *[other] Tipo de pelo sin describir {$index}
-    }
-    *[1] Pelo: {$index}
+  [0] {$index ->
+    [1] Raya a la derecha, corto y despeinado
+    [2] Raya al medio, seis pulgadas de largo
+    [3] Raya a la izquierda, flequillo barrido, peinado hacia atrás
+    [4] Afro
+    [5] Raya a la derecha, despeinado con flequillo
+    [6] Nuca y laterales rapados
+    [7] Pompadour abierto con raya a la derecha, largo hasta la barbilla
+    [8] Raya a la derecha, corto y peinado hacia atrás
+    [9] Raya a la derecha con flequillo, grandes picos desordenados
+    [10] Raya a la derecha, corte bob lateral
+    [11] Pompadour, corto y peinado hacia atrás
+    [12] Corto con laterales degradados, peinado hacia atrás
+    [13] Raya al medio, coleta baja
+    [14] Rastas desordenadas, seis pulgadas de largo, rapado inferior
+    [15] Raya a la izquierda con flequillo largo, peinado hacia atrás
+    [16] Raya al medio, 4 pulgadas de largo, undercut
+    [17] Raya a la derecha, coleta alta, flequillo barrido
+    [18] Raya a la derecha, largo hasta los hombros, coletas bajas
+    [19] Raya a la derecha, corto con flequillo largo barrido
+    [20] Recogido, tres moños apretados en la parte superior de la cabeza
+    [21] Corto y peinado
+    [22] Raya a la derecha, corto, coletas altas
+    [23] Raya a la derecha con flequillo, moño alto y apretado
+    [24] Raya a la derecha con flequillo, despeinado, seis pulgadas
+    [25] Raya a la derecha, flequillo barrido, largo hasta media espalda
+    [26] Estilo años 50, cardado, bob rizado en las puntas
+    [27] Raya al medio, largo hasta los muslos
+    [28] Raya a la derecha, flequillo barrido, largo hasta la barbilla
+    [29] Raya al medio, largo hasta la cintura, coleta baja
+    [30] Largo hasta la cintura con flequillo, liso, puntas afinadas
+    [31] Raya a la derecha con flequillo, coletas bajas
+    [32] Dos moños laterales retorcidos, estilo Princesa Leia
+    [33] Raya a la derecha, flequillo barrido, corto
+    [34] Raya a la derecha, largo hasta la cadera, trenzas en coletas
+    [35] Raya a la derecha, largo hasta media espalda, trenzas en coletas
+    [36] Coleta alta, mini flequillo
+    [37] Raya al medio, barrido sobre el hombro derecho
+    [38] Raya a la derecha con flequillo, coletas altas
+    [39] Diadema negra, largo hasta la barbilla
+    [40] Diadema negra con flequillo, largo hasta los hombros
+    [41] Raya a la izquierda, rizos sueltos, largo hasta los hombros
+    [42] Largo hasta los hombros con mini flequillo, rizado
+    [43] Largo arriba con mechas, peinado hacia atrás
+    [44] Raya a la derecha, flequillo barrido, corto
+    [45] Raya al medio, degradado con 4 pulgadas arriba
+    [46] Trenzas africanas, largo hasta la barbilla
+    [47] Raya a la izquierda, corto y peinado
+    [48] Raya al medio, flequillo barrido, largo hasta la barbilla
+    [49] Raya al medio, despeinado, coleta parcial
+    [50] Estilo liberty spikes, laterales rapados
+    [51] Corte donut, largo hasta los hombros
+    [52] Corte donut, corto
+    [53] Calvo o rapado
+    [54] Rapado, media pulgada de largo, pico de viuda
+    [55] Rapado, media pulgada de largo, despeinado
+    [56] Rapado, media pulgada de largo, línea recta
+    [101] Raya a la izquierda con flequillo, ondulado, largo hasta la cintura
+    [102] Raya a la derecha, largo hasta la cadera, rizado
+    [103] Raya a la derecha, largo hasta la cintura, liso
+    [104] Raya al medio, largo hasta la cintura, coleta baja
+    [105] Raya al medio, largo hasta la cintura, trenza alta
+    [106] Raya a la derecha con flequillo, barrido hasta el hombro
+    [107] Raya a la derecha, despeinado, barrido hasta el hombro
+    [108] Bob con flequillo
+    [109] Raya a la izquierda, corto, peinado
+    [110] Ondulado con flequillo, 8 pulgadas
+    [111] Ondulado con flequillo, largo hasta los hombros
+    [112] Rastas, ordenadas, 4 pulgadas de largo
+    [113] Corto y despeinado
+    [114] Raya al medio, seis pulgadas de largo
+    [115] Raya a la derecha, largo hasta los hombros, despeinado
+    [116] Raya al medio, cardado, largo hasta los hombros
+    [117] Raya al medio con flequillo, corto
+    [118] Raya a la izquierda con flequillo, despeinado, corto
+    *[other] Tipo de pelo sin describir {$index}
   }
+  *[1] Pelo: {$index}
+}
 
 menu-character_creation-description-shirt = {$less_info ->
-    [0] {$index ->
-      [1001] Mono rojo de mezclilla
-      [1002] Camisa marrón
-      [1003] Verde claro, cinturón marrón
-      [1004] Negra, diseño de manchas grises
-      [1005] Diseño de calavera negra
-      [1006] Azul grisáceo con diseño de nubes
-      [1007] Color crema con franjas horizontales azul claro
-      [1008] Mono verde de mezclilla
-      [1009] Amarillo y marrón en zig zag horizontal
-      [1010] Verde azulado con diseño de nubes
-      [1011] Negra, con una letra A blanca
-      [1012] Green, collar cinches
-      [1013] Lime Green, green stripes
-      [1014] Red, white horizontal stripes
-      [1015] Black, white ribcage design
-      [1016] Brown, Tan, Light Brown stripes
-      [1017] Blue, yellow dots
-      [1018] Green, brown suspenders
-      [1019] Brown jacket, Gray tee
-      [1020] White, blue kerchief
-      [1021] Green tank, Gray tee
-      [1022] Ochre, green horizontal stripe
-      [1023] Red button up
-      [1024] Green button up
-      [1025] Light Blue button up
-      [1026] Blue button up
-      [1027] Sea Green, horizontal white stripe
-      [1028] Purple, light equal sign design
-      [1029] Black, purple heart design
-      [1030] White vertical gradient
-      [1031] Brown jacket, Black shirt
-      [1032] Brown Gray, angled button up
-      [1033] Red, brown belt
-      [1034] Green, strung collar
-      [1035] Green bodice, gold belt, brown sleeves
-      [1036] Red, white collar, buttoned
-      [1037] Light Purple, zippered
-      [1038] Gray to Black vertical gradient
-      [1039] White, wide collar
-      [1040] Sea Green and Brown stripes
-      [1041] Purple vertical gradient
-      [1042] White, horizontal cream stripe
-      [1043] Green vertical gradient, belt
-      [1044] Blue vertical gradient
-      [1045] Blue, strung collar, white spot
-      [1046] Brown vertical gradient
-      [1047] Purple Vertical Gradient
-      [1048] Brown, silver belt
-      [1049] Black, gray bat design
-      [1050] Light Purple, purple stripe
-      [1051] Light Pink tank, purple shirt
-      [1052] Pink tank, light purple tee
-      [1053] Purple, vertical rainbow column
-      [1054] Black, green belt
-      [1055] Sea Green, white shoulder stripe
-      [1056] Red, horizontal yellow stripe
-      [1057] Lime Green, wide collar
-      [1058] White and Gray stripes, red vest
-      [1059] Blue, light blue shoulder stripe
-      [1060] Ochre, yellow shoulder stripe
-      [1061] Blue, wide collar
-      [1062] Tan, stripes and dots
-      [1063] Blue, white collar and stripe
-      [1064] Red, silver collar
-      [1065] Patchwork Blue
-      [1066] Green, white undershirt
-      [1067] Gray, mouse face design
-      [1068] Yellow, low overalls
-      [1069] Light Green, upper frog face
-      [1070] Green, brown belt
-      [1071] Fuchsia, light purple stripe
-      [1072] White, denim overalls, brown belt
-      [1073] Cream crop hoodie, blue tank
-      [1074] Dark Blue and Purple horizontal split
-      [1075] Blue, red overalls, brown belt
-      [1076] Black, green mushroom cloud design
-      [1077] Light Purple, brown belt
-      [1078] White, tongue out frowny face
-      [1079] Purple, white kerchief
-      [1080] Black, blue overalls
-      [1081] Gray, white shoulder stripe
-      [1082] Green, light green waist stripe
-      [1083] Dark Blue
-      [1084] Black, wide collar
-      [1085] Black
-      [1086] Red, button up, open neck
-      [1087] Teal, brown suspenders
-      [1088] White button up, red kerchief
-      [1089] Yellow, green vest
-      [1090] Purple Bowling Style
-      [1091] Black Hoodie
-      [1092] Green, collared, white kerchief
-      [1093] Pink, light pink shoulder stripe
-      [1094] White, black spots
-      [1095] Brown, red and yellow tie
-      [1096] Yellow, black eyes with blush
-      [1097] Green, dark green spots
-      [1098] Gray, button up, dark vertical stripe
-      [1099] Black peacoat, white shirt collar
-      [1100] Purple, black overalls
-      [1101] Light Blue, horizontal dark stripe
-      [1102] Black, white front
-      [1103] Canvas, blond leather belt
-      [1104] Gray stripes, black overalls
-      [1105] Green and Teal stripes
-      [1106] Blue, white letter J
-      [1107] Green and Black Horizontal split
-      [1108] Fuchsia, white shoulder stripe
-      [1109] Brown Orange
-      [1110] Purple button up, dark vertical stripe
-      [1111] Brown button up, dark vertical stripe
-      [1112] Olive green, dark vertical stripe
-      *[other] Camisa sin describir {$index}
-    }
-    *[1] Camisa: {$index}
+  [0] {$index ->
+    [1001] Mono rojo de mezclilla
+    [1002] Camisa marrón
+    [1003] Verde claro, cinturón marrón
+    [1004] Negra, diseño de manchas grises
+    [1005] Diseño de calavera negra
+    [1006] Azul grisáceo con diseño de nubes
+    [1007] Color crema con franjas horizontales azul claro
+    [1008] Mono verde de mezclilla
+    [1009] Amarillo y marrón en zig zag horizontal
+    [1010] Verde azulado con diseño de nubes
+    [1011] Negra, con una letra A blanca
+    [1012] Verde, collar fruncido
+    [1013] Verde lima, rayas verdes
+    [1014] Roja, rayas horizontales blancas
+    [1015] Negra, diseño blanco de caja torácica
+    [1016] Marrón, beige y marrón claro a rayas
+    [1017] Azul, lunares amarillos
+    [1018] Verde, tirantes marrones
+    [1019] Chaqueta marrón, camiseta gris
+    [1020] Blanca, pañuelo azul
+    [1021] Camiseta verde sin mangas, camiseta gris
+    [1022] Ocre, franja horizontal verde
+    [1023] Camisa roja abotonada
+    [1024] Camisa verde abotonada
+    [1025] Camisa azul claro abotonada
+    [1026] Camisa azul abotonada
+    [1027] Verde mar, franja horizontal blanca
+    [1028] Morada, diseño claro de signo igual
+    [1029] Negra, diseño de corazón morado
+    [1030] Blanca, degradado vertical
+    [1031] Chaqueta marrón, camisa negra
+    [1032] Marrón grisáceo, camisa abotonada en ángulo
+    [1033] Roja, cinturón marrón
+    [1034] Verde, collar atado
+    [1035] Corpiño verde, cinturón dorado, mangas marrones
+    [1036] Roja, cuello blanco, abotonada
+    [1037] Lila claro, con cremallera
+    [1038] Gris a negro, degradado vertical
+    [1039] Blanca, cuello ancho
+    [1040] Verde mar y marrón a rayas
+    [1041] Morada, degradado vertical
+    [1042] Blanca, franja horizontal crema
+    [1043] Verde, degradado vertical, cinturón
+    [1044] Azul, degradado vertical
+    [1045] Azul, collar atado, mancha blanca
+    [1046] Marrón, degradado vertical
+    [1047] Morada, degradado vertical
+    [1048] Marrón, cinturón plateado
+    [1049] Negra, diseño gris de murciélago
+    [1050] Lila claro, franja morada
+    [1051] Camiseta sin mangas rosa claro, camisa morada
+    [1052] Camiseta sin mangas rosa, camiseta lila
+    [1053] Morada, columna vertical arcoíris
+    [1054] Negra, cinturón verde
+    [1055] Verde mar, franja blanca en el hombro
+    [1056] Roja, franja horizontal amarilla
+    [1057] Verde lima, cuello ancho
+    [1058] Rayas blancas y grises, chaleco rojo
+    [1059] Azul, franja azul claro en el hombro
+    [1060] Ocre, franja amarilla en el hombro
+    [1061] Azul, cuello ancho
+    [1062] Beige, rayas y lunares
+    [1063] Azul, cuello blanco y franja
+    [1064] Roja, cuello plateado
+    [1065] Azul patchwork
+    [1066] Verde, camiseta interior blanca
+    [1067] Gris, diseño de cara de ratón
+    [1068] Amarilla, peto bajo
+    [1069] Verde claro, cara superior de rana
+    [1070] Verde, cinturón marrón
+    [1071] Fucsia, franja lila
+    [1072] Blanca, peto vaquero, cinturón marrón
+    [1073] Sudadera crop crema, camiseta azul
+    [1074] Azul oscuro y morado, división horizontal
+    [1075] Azul, peto rojo, cinturón marrón
+    [1076] Negra, diseño de nube de hongo verde
+    [1077] Lila claro, cinturón marrón
+    [1078] Blanca, cara triste sacando la lengua
+    [1079] Morada, pañuelo blanco
+    [1080] Negra, peto azul
+    [1081] Gris, franja blanca en el hombro
+    [1082] Verde, franja verde claro en la cintura
+    [1083] Azul oscuro
+    [1084] Negra, cuello ancho
+    [1085] Negra
+    [1086] Roja, abotonada, cuello abierto
+    [1087] Verde azulado, tirantes marrones
+    [1088] Camisa blanca abotonada, pañuelo rojo
+    [1089] Amarilla, chaleco verde
+    [1090] Morada, estilo bowling
+    [1091] Sudadera negra
+    [1092] Verde, con cuello, pañuelo blanco
+    [1093] Rosa, franja rosa claro en el hombro
+    [1094] Blanca, manchas negras
+    [1095] Marrón, corbata roja y amarilla
+    [1096] Amarilla, ojos negros con rubor
+    [1097] Verde, manchas verde oscuro
+    [1098] Gris, abotonada, franja vertical oscura
+    [1099] Abrigo negro tipo peacoat, cuello de camisa blanca
+    [1100] Morada, peto negro
+    [1101] Azul claro, franja horizontal oscura
+    [1102] Negra, frontal blanco
+    [1103] Lona, cinturón de cuero rubio
+    [1104] Rayas grises, peto negro
+    [1105] Rayas verdes y verde azulado
+    [1106] Azul, letra J blanca
+    [1107] Verde y negro, división horizontal
+    [1108] Fucsia, franja blanca en el hombro
+    [1109] Marrón anaranjado
+    [1110] Camisa morada abotonada, franja vertical oscura
+    [1111] Camisa marrón abotonada, franja vertical oscura
+    [1112] Verde oliva, franja vertical oscura
+    *[other] Camisa sin describir {$index}
   }
+  *[1] Camisa: {$index}
+}
 
 menu-character_creation-description-pant = {$less_info ->
-    [0] {$index ->
-      [1] Largos
-      [2] Cortos
-      [3] Long Skirt
-      [4] Skirt
-      *[other] {EMPTYSTRING()}
-    }
-    *[1] Tipo de pantalones: {$index}
+  [0] {$index ->
+    [1] Largos
+    [2] Cortos
+    [3] Falda larga
+    [4] Falda
+    *[other] {EMPTYSTRING()}
   }
+  *[1] Tipo de pantalones: {$index}
+}
+
 
 # For accessories
 menu-character_creation-description-acc = {$less_info ->
-    [0] {$index ->
-      [1] Blank
-      [2] Full beard and mustache
-      [3] Full mustache
-      [4] Full mustache wrinkles
-      [5] Goatee
-      [6] Mutton chops
-      [7] Full beard and mustache, untrimmed
-      [8] Gold earrings
-      [9] Turquoise earrings
-      [10] Black full-frame glasses
-      [11] Lipstick
-      [12] Top-frame glasses
-      [13] Bushy eyebrows
-      [14] Robo-visor
-      [15] Circular black frame glasses
-      [16] Red necklace
-      [17] Black sunglasses
-      [18] Blue necklace
-      [19] Gray sunglasses
-      [20] Orange beak
-      [21] Five o'clock shadow
-      [22] Bushy beard
-      [23] Pencil mustache
-      [24] Handlebar mustache
-      [25] Tanned face (includes head if bald)
-      [26] Red clown nose
-      [27] Square wire-framed glasses
-      [28] Prominent black eyebrows
-      [29] Blushing cheeks
-      [30] Pink lipstick
-      [31] Bronzer
-      *[other] Accesorio sin describir {$index}
-    }
-    *[1] Accesorio: {$index}
+  [0] {$index ->
+    [1] Ninguno
+    [2] Barba completa y bigote
+    [3] Bigote completo
+    [4] Bigote completo con arrugas
+    [5] Perilla
+    [6] Patillas
+    [7] Barba completa y bigote, sin recortar
+    [8] Pendientes dorados
+    [9] Pendientes turquesa
+    [10] Gafas negras de montura completa
+    [11] Pintalabios
+    [12] Gafas de montura superior
+    [13] Cejas pobladas
+    [14] Visor robótico
+    [15] Gafas negras de montura circular
+    [16] Collar rojo
+    [17] Gafas de sol negras
+    [18] Collar azul
+    [19] Gafas de sol grises
+    [20] Pico naranja
+    [21] Barba de las cinco
+    [22] Barba espesa
+    [23] Bigote fino
+    [24] Bigote de manillar
+    [25] Rostro bronceado (incluye la cabeza si está calvo)
+    [26] Nariz de payaso roja
+    [27] Gafas cuadradas de alambre
+    [28] Cejas negras prominentes
+    [29] Mejillas sonrojadas
+    [30] Pintalabios rosa
+    [31] Bronceador
+    *[other] Accesorio sin describir {$index}
   }
+  *[1] Accesorio: {$index}
+}
