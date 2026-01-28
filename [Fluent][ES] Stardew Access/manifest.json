@@ -1,10 +1,10 @@
 ﻿{
   "Name": "[Fluent][ES] Stardew Access",
-  "Author": "Marc2p, Dherhion",
-  "Version": "1.0.0",
+  "Author": "Dherhion",
+  "Version": "1.1",
   "Description": "Traducción al español de Stardew Access",
   "UniqueID": "marc2p.fluent.stardewaccess.es",
-  "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+  "UpdateKeys": [ "Nexus:41759"],
   "ContentPackFor": {
     "UniqueID": "Shockah.ProjectFluent"
   },
